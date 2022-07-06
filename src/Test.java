@@ -5,6 +5,7 @@ public class Test {
 
 		System.out.println("Git Test");
 		System.out.println("Git 올라가쮸ㅏ");
+		System.out.println("2차 test");
 	}
 
 }
